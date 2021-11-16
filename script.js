@@ -1,4 +1,4 @@
-let apiKey="22650d818381085696f1fc60818ac7cd";
+let apiKey="put you own api key";
 
 function fetchWeather(city)
 {
